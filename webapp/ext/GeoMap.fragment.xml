@@ -6,7 +6,7 @@
 
    <VBox>
 
-   <HBox class="">
+   <HBox class=""> 
        <Text text="The bookings were confirmed on" class="sapUiTinyMarginEnd"/>
        <macros:Field readOnly="true" metaPath="CreatedAt" id="custom-flightdate"/>
        <Text text="by" class="sapUiTinyMarginBeginEnd"/>
